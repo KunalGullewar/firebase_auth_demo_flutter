@@ -16,31 +16,10 @@ This project shows how to:
 - handle errors and present user-friendly error messages
 - write production-ready code following best practices
 
-Feel free to use this in your own projects. 😉
+Feel free to use this in your own projects.
 
 _NOTE: This project will be kept up to date with the latest packages and Flutter version._
 
-## Preview
-
-![](media/firebase-auth-screens.png)
-
-**Google Sign-in**
-
-![](media/google-sign-in.gif)
-
-**Facebook Sign-in**
-
-![](media/facebook-sign-in.gif)
-
-**Email & Password auth**
-
-![](media/email-password-sign-in.gif)
-
-## Simplified widget tree
-
-![](media/simplified-widget-tree.png)
-
-## FirebaseAuth features
 
 ### Supported sign-in methods
 
