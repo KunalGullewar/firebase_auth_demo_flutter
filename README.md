@@ -2,12 +2,6 @@
 
 [![Codemagic build status](https://api.codemagic.io/apps/5d8e174b125acf001aca4a45/5d8e174b125acf001aca4a44/status_badge.svg)](https://codemagic.io/apps/5d8e174b125acf001aca4a45/5d8e174b125acf001aca4a44/latest_build)
 
-YouTube video walk-throughs here: 
-
-[![Flutter & Firebase: Reference Authentication Flow - Intro](media/firebase-auth-banner-youtube.png)](https://youtu.be/-Za1MspEt5I)
-
-[![Flutter & Firebase: Authentication Service with Provider & ValueNotifier](media/firebase-auth-service-provider-banner-youtube.png)](https://youtu.be/MjY1_LaXyd8)
-
 This project shows how to implement a full authentication flow in Flutter, using various Firebase sign-in methods.
 
 It aims to be a reference implementation. Think of it as "authentication done right".
